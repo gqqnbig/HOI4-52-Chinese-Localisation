@@ -1119,7 +1119,7 @@
  SURRENDERED_OTHER:0 "其他"
  SURRENDERED_SPECIAL_TITLE:1 "我们还缴获了："
  SURRENDERED_SPECIAL_ITEM:0 "$AMOUNT|0H$ $EQUIPMENT|H$($TYPE|H$)"
- from_trade:0 "通过贸易："
+ from_trade:0 "来自贸易："
  owned:0 "自己拥有："
  CHAT:0 "聊天"
  FORT:0 "要塞"
